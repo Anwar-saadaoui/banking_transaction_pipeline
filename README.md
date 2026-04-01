@@ -267,11 +267,3 @@ LIMIT 10;
 Pull requests are welcome! For major changes, please open an issue first.
 
 ---
-
-## 📄 License
-
-MIT License — feel free to use this project for learning and portfolio purposes.
-
----
-
-<p align="center">Built with ❤️ for Data Engineering</p>
